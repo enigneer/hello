@@ -1,1 +1,1 @@
-pritn("Calc")
+pritn("hello")
